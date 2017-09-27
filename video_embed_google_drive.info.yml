@@ -1,0 +1,7 @@
+name: Video Embed Google Drive
+type: module
+description: Provide plugins for the video embed field module to provide support for Google Drive.
+core: 8.x
+package: Media
+dependencies:
+  - video_embed_field
