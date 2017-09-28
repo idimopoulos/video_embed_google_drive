@@ -12,7 +12,7 @@ use Drupal\video_embed_field\ProviderPluginBase;
  *   title = @Translation("Google Drive")
  * )
  */
-class GoogleDrive extends ProviderPluginBase {
+class GoogleDriveFile extends ProviderPluginBase {
 
   /**
    * {@inheritdoc}
